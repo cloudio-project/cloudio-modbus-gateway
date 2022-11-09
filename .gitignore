@@ -1,0 +1,4 @@
+﻿.idea
+Pipfile.lock
+*.pyc
+temp/
