@@ -7,7 +7,7 @@ fullname: example of a counter mapping
 
 force-update: my_custom_rate
 
-refresh-rate:   # in millisecond
+refresh-rate:   # in second
     daily: 86400   # every day
     slow: 300      # every 5m
     fast: 5        # every 5s
